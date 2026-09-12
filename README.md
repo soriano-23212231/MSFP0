@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Judith Valeria Soriano Angeles No. Control: 23212231 [l23212231@tijuana.tecnm.mx]
+Judith Valeria Soriano Angeles; No. Control: 23212231 [l23212231@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
